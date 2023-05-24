@@ -1,9 +1,10 @@
-# TraceIP
+# TraceIP 🌏
+
 A Command line tool built with **[Go](https://go.dev/ "Go Lang")** to perform geolocation lookups for IP addresses. 
 
 Retrieve information such as host, country, region, city, latitude, longitude and associated organisation with an IP address.
 
-### Setup
+### :electron: Setup
 - Clone this repository with **git**.
   ```
   git clone https://github.com/akashchouhan16/traceip.git
