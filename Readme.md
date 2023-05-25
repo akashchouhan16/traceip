@@ -30,10 +30,10 @@ $ traceip
 ---
 
 * **🔮 Preview: GO build & run the traceip binary:**
-  ![Preview](./asset/build-and-run.gif)
+  ![build-and-run Preview](https://github.com/akashchouhan16/traceip/assets/56465610/b17cf224-f949-44b2-9487-e7cb6e830c7c)
 
 * **🔮 Preview: `traceip trace <IPv4/IPv6>`**
-  ![Preview](asset/trace-ip-v1.gif)
+  ![trace-cmd Preview](https://github.com/akashchouhan16/traceip/assets/56465610/6fc1bb7c-ac97-4596-8a39-8e8453748265)
 ---
 
 ### 📦 Application Details
