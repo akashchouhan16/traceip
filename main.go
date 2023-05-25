@@ -1,10 +1,11 @@
-/*
-Copyright © 2023 NAME HERE <EMAIL ADDRESS>
+/* ***********************************************
+ * copyright: 2023 @github.com/akashchouhan16/traceip
+ * author: @akashchouhan16
+ *************************************************/
 
-*/
 package main
 
-import "traceip/cmd"
+import "github.com/akashchouhan16/traceip/cmd"
 
 func main() {
 	cmd.Execute()
