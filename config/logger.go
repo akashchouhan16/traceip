@@ -1,4 +1,8 @@
-package logger
+/* ***********************************************
+ * copyright: 2023 @github.com/akashchouhan16/traceip
+ * author: @akashchouhan16
+ *************************************************/
+package config
 
 import (
 	"log"
