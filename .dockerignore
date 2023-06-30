@@ -1,0 +1,13 @@
+# Exclude common Go build artifacts
+*.exe
+*.test
+*.out
+*.prof
+*.tar.gz
+
+# Exclude any local development files or directories
+.vscode
+.idea
+*.log
+*.tmp
+*.bak
