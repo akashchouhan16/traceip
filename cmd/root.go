@@ -1,6 +1,6 @@
 /* ***********************************************
- * copyright: 2023 @github.com/akashchouhan16/traceip
- * author: @akashchouhan16
+ * copyright: github.com/akashchouhan16/traceip
+ * author: akashchouhan16
  *************************************************/
 package cmd
 
